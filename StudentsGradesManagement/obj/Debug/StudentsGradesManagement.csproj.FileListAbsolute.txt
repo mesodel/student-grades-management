@@ -1,0 +1,17 @@
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\bin\Debug\Database.mdb
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\bin\Debug\StudentsGradesManagement.exe.config
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\bin\Debug\StudentsGradesManagement.exe
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\bin\Debug\StudentsGradesManagement.pdb
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\bin\Debug\MyChart.dll
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\bin\Debug\MyChart.pdb
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.csprojAssemblyReference.cache
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.MainForm.resources
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.Properties.Resources.resources
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.StatisticsForm.resources
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.StudentsForm.resources
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.SubjectsForm.resources
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.csproj.GenerateResource.cache
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.csproj.CoreCompileInputs.cache
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.csproj.CopyComplete
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.exe
+C:\Users\Delia\Desktop\StudentsGradesManagement\StudentsGradesManagement\obj\Debug\StudentsGradesManagement.pdb

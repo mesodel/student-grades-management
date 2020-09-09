@@ -1,0 +1,8 @@
+C:\Users\Delia\Desktop\StudentsGradesManagement\MyChart\bin\Debug\MyChart.dll
+C:\Users\Delia\Desktop\StudentsGradesManagement\MyChart\bin\Debug\MyChart.pdb
+C:\Users\Delia\Desktop\StudentsGradesManagement\MyChart\obj\Debug\MyChart.csprojAssemblyReference.cache
+C:\Users\Delia\Desktop\StudentsGradesManagement\MyChart\obj\Debug\MyChart.LineGraphControl.resources
+C:\Users\Delia\Desktop\StudentsGradesManagement\MyChart\obj\Debug\MyChart.csproj.GenerateResource.cache
+C:\Users\Delia\Desktop\StudentsGradesManagement\MyChart\obj\Debug\MyChart.csproj.CoreCompileInputs.cache
+C:\Users\Delia\Desktop\StudentsGradesManagement\MyChart\obj\Debug\MyChart.dll
+C:\Users\Delia\Desktop\StudentsGradesManagement\MyChart\obj\Debug\MyChart.pdb
